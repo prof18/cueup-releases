@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="CueUp">
+  <rect width="1200" height="630" fill="#0a0b0f"/>
+  <circle cx="180" cy="40" r="360" fill="#d4a554" opacity=".12"/>
+  <circle cx="1040" cy="0" r="320" fill="#5e9fff" opacity=".05"/>
+  <g transform="translate(86 108)">
+    <rect x="0" y="0" width="96" height="96" rx="20" fill="#14161c" stroke="#2e323c" stroke-width="2"/>
+    <path d="M24 36V24h12M72 36V24H60M24 60v12h12M72 60v12H60" fill="none" stroke="#d4a554" stroke-width="5"/>
+    <rect x="30" y="30" width="36" height="36" fill="#d4a554" transform="rotate(45 48 48)"/>
+  </g>
+  <text x="86" y="286" fill="#e7e9ee" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="94" font-weight="500" letter-spacing="-2">CueUp</text>
+  <text x="92" y="358" fill="#b4b8c1" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="34">Video on the projector.</text>
+  <text x="92" y="402" fill="#b4b8c1" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="34">Cues on your laptop.</text>
+  <text x="92" y="488" fill="#d4a554" font-family="ui-monospace, SF Mono, Menlo, monospace" font-size="22" letter-spacing="4">PRESENT VIDEO WITHOUT SHOWING YOUR DESKTOP</text>
+  <rect x="786" y="118" width="320" height="200" fill="#14161c" stroke="#2e323c" stroke-width="2"/>
+  <rect x="814" y="148" width="132" height="18" fill="#20232b"/>
+  <rect x="814" y="178" width="178" height="18" fill="#33291a"/>
+  <rect x="814" y="208" width="116" height="18" fill="#20232b"/>
+  <rect x="1010" y="148" width="58" height="24" fill="#ff4d4d" opacity=".18" stroke="#ff4d4d"/>
+  <rect x="826" y="358" width="232" height="130" fill="#000" stroke="#2e323c" stroke-width="2"/>
+  <text x="850" y="456" fill="#d4a554" font-family="ui-monospace, SF Mono, Menlo, monospace" font-size="30">00:02:14</text>
+</svg>
